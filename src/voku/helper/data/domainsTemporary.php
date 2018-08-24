@@ -1557,6 +1557,7 @@ static $data = [
     'parlimentpetitioner.tk',
     'pastebitch.com',
     'paulfucksallthebitches.com',
+    'pay-mon.com',
     'pcusers.otherinbox.com',
     'pencalc.xyz',
     'penis.computer',
