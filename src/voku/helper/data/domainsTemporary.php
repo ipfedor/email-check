@@ -961,6 +961,7 @@ static $data = [
     'hukkmu.tk',
     'hulapla.de',
     'humn.ws.gy',
+    'hurify1.com',
     'hvtechnical.com',
     'i.istii.ro',
     'i.klipp.su',
